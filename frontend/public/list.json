@@ -1,0 +1,141 @@
+[
+    {
+        "id":1,
+        "name":"Social Media",
+        "title":"Through our in-depth analysis, we increase your online visibility",
+        "price": 0,
+        "category":"Social Media Management",
+        "image": "https://img.freepik.com/premium-photo/dubai-skyline-night_191555-8.jpg?ga=GA1.1.1955129361.1730972736&semt=ais_hybrid"
+
+    },
+
+    {
+        "id":2,
+        "name":"Online Advertising",
+        "title":"Through our in-depth analysis, we increase your online visibility",
+        "price": 0,
+        "category":"Online Advertising Agency",
+        "image": "https://img.freepik.com/premium-photo/dubai-skyline-night_191555-8.jpg?ga=GA1.1.1955129361.1730972736&semt=ais_hybrid"
+
+    },
+
+    {
+        "id":3,
+        "name":"SEO Services",
+        "title":"Through our in-depth analysis, we increase your online visibility",
+        "price": 0,
+        "category":"SEO Services",
+        "image": "https://img.freepik.com/premium-photo/dubai-skyline-night_191555-8.jpg?ga=GA1.1.1955129361.1730972736&semt=ais_hybrid"
+
+    },
+
+    {
+        "id":4,
+        "name":"Content Writing ",
+        "title":"Through our in-depth analysis, we increase your online visibility",
+        "price": 50,
+        "category":"Content Writing Services",
+        "image": "https://img.freepik.com/premium-photo/dubai-skyline-night_191555-8.jpg?ga=GA1.1.1955129361.1730972736&semt=ais_hybrid"
+
+    },
+
+    {
+        "id":5,
+        "name":"Social Media",
+        "title":"Through our in-depth analysis, we increase your online visibility",
+        "price": 100,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/dubai-skyline-night_191555-8.jpg?ga=GA1.1.1955129361.1730972736&semt=ais_hybrid"
+
+    },
+
+    {
+        "id":6,
+        "name":"Social Media",
+        "title":"Through our in-depth analysis, we increase your online visibility",
+        "price": 120,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/dubai-skyline-night_191555-8.jpg?ga=GA1.1.1955129361.1730972736&semt=ais_hybrid"
+
+    },
+
+    {
+        "id":7,
+        "name":"Social Media",
+        "title":"Through our in-depth analysis, we increase your online visibility",
+        "price": 150,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/dubai-skyline-night_191555-8.jpg?ga=GA1.1.1955129361.1730972736&semt=ais_hybrid"
+
+    },
+
+    {
+        "id":8,
+        "name":"Social Media",
+        "title":"Through our in-depth analysis, we increase your online visibility",
+        "price": 180,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/dubai-skyline-night_191555-8.jpg?ga=GA1.1.1955129361.1730972736&semt=ais_hybrid"
+
+    },
+
+    {
+        "id":9,
+        "name":"Social Media",
+        "title":"Through our in-depth analysis, we increase your online visibility",
+        "price": 200,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/dubai-skyline-night_191555-8.jpg?ga=GA1.1.1955129361.1730972736&semt=ais_hybrid"
+
+    },
+
+    {
+        "id":10,
+        "name":"Social Media",
+        "title":"Through our in-depth analysis, we increase your online visibility",
+        "price": 210,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/dubai-skyline-night_191555-8.jpg?ga=GA1.1.1955129361.1730972736&semt=ais_hybrid"
+
+    },
+
+    {
+        "id":11,
+        "name":"Social Media",
+        "title":"Through our in-depth analysis, we increase your online visibility",
+        "price": 230,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/dubai-skyline-night_191555-8.jpg?ga=GA1.1.1955129361.1730972736&semt=ais_hybrid"
+
+    },
+
+    {
+        "id":12,
+        "name":"Social Media",
+        "title":"Through our in-depth analysis, we increase your online visibility",
+        "price": 250,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/dubai-skyline-night_191555-8.jpg?ga=GA1.1.1955129361.1730972736&semt=ais_hybrid"
+
+    },
+
+    {
+        "id":13,
+        "name":"Social Media",
+        "title":"Through our in-depth analysis, we increase your online visibility",
+        "price": 270,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/dubai-skyline-night_191555-8.jpg?ga=GA1.1.1955129361.1730972736&semt=ais_hybrid"
+
+    },
+
+    {
+        "id":14,
+        "name":"Social Media",
+        "title":"Through our in-depth analysis, we increase your online visibility",
+        "price": 300,
+        "category":"Free",
+        "image": "https://img.freepik.com/premium-photo/dubai-skyline-night_191555-8.jpg?ga=GA1.1.1955129361.1730972736&semt=ais_hybrid"
+
+    }
+]
