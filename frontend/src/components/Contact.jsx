@@ -16,7 +16,7 @@ function Contact() {
     const contactData = { name, email, subject, message };
 
     try {
-      const response = await axios.post("http://localhost:4001/api/contact", contactData);
+      const response = await axios.post("https://three60bytes-companyprofile.onrender.com/api/contact", contactData);
 
       if (response.data) {
         alert("Message sent successfully!");
